@@ -64,7 +64,9 @@ The executable file will be created in the `dist` folder.
 ## 📁 Project Structure
 
 ```
-main.py
+Unit_Converter_Tkinter.py
+Unit_Converter_Tkinter_2.py
+Unit_Converter_Tkinter_3.py
 README.md
 ```
 

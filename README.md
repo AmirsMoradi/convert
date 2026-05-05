@@ -38,7 +38,7 @@ pip install pillow customtkinter
 ## ▶️ Run the Application
 
 ```bash
-python main.py
+python Unit_Converter_Tkinter_3.py
 ```
 
 ---
@@ -54,7 +54,7 @@ pip install pyinstaller
 Build the executable:
 
 ```bash
-pyinstaller --onefile --noconsole --name image_converter main.py
+pyinstaller --onefile --noconsole --name image_converter Unit_Converter_Tkinter_3.py
 ```
 
 The executable file will be created in the `dist` folder.
